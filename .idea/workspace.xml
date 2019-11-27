@@ -3,9 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="29163858-fad9-4b76-8270-7bf2365959ee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Picker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Picker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/neows/NeoApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/neows/NeoApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csswars/StarJediLogoDoubleline1-z0e0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csswars/StarJediLogoDoubleline2-5lzB.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csswars/StarJediLogoMonoline-6nGg.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/star_jedi_outline/__MACOSX/._starjout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/star_jedi_outline/__MACOSX/starjout/._Star Jedi Outline font guide Word97.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/star_jedi_outline/__MACOSX/starjout/._Star Jedi Outline sample.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/star_jedi_outline/__MACOSX/starjout/._Starjout.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/star_jedi_outline/starjout/.~lock.Star Jedi Outline font guide Word97.doc#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/star_jedi_outline/starjout/Star Jedi Outline font guide Word97.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/star_jedi_outline/starjout/Star Jedi Outline sample.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/star_jedi_outline/starjout/Starjout.ttf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +91,7 @@
       <updated>1574686468233</updated>
       <workItem from="1574686471141" duration="10672000" />
       <workItem from="1574756592062" duration="22798000" />
-      <workItem from="1574842833384" duration="18425000" />
+      <workItem from="1574842833384" duration="20655000" />
     </task>
     <servers />
   </component>
