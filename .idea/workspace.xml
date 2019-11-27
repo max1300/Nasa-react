@@ -3,20 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="29163858-fad9-4b76-8270-7bf2365959ee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/neows/Alert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MySound.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/MySound.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nasa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NeoApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/neows/NeoApi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NeoError.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/neows/NeoError.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Picker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Picker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/The_Avengers.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/US-NASA-Seal-logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/background_planet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/neows/NeoApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/neows/NeoApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +82,7 @@
       <updated>1574686468233</updated>
       <workItem from="1574686471141" duration="10672000" />
       <workItem from="1574756592062" duration="22798000" />
-      <workItem from="1574842833384" duration="11214000" />
+      <workItem from="1574842833384" duration="15371000" />
     </task>
     <servers />
   </component>
