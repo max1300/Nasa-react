@@ -36,8 +36,6 @@ const Picker = (props) => {
 
     return (
         <div className="container">
-
-
             <form className="form-group" style={{color: "white", marginTop: "2%", textAlign:"center"}}>
                 <div className="form-group" style={{marginBottom:"2%"}}>
                     <h3>Date de début</h3>

@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="29163858-fad9-4b76-8270-7bf2365959ee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/neows/NeoApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/neows/NeoApi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Picker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Picker.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,7 @@
       <updated>1574686468233</updated>
       <workItem from="1574686471141" duration="10672000" />
       <workItem from="1574756592062" duration="22798000" />
-      <workItem from="1574842833384" duration="15371000" />
+      <workItem from="1574842833384" duration="18425000" />
     </task>
     <servers />
   </component>
